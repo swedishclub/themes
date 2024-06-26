@@ -11,5 +11,7 @@
     "url": "tscTheme"
   },
   "author": "The Swedish Club",
-  "license": "ISC"
+  "license": "ISC",
+  "package name": "@swedishclub/tscTheme",
+  "test command": "exit 0"
 }
