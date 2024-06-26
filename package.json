@@ -4,7 +4,7 @@
   "description": "A Swedish Club Theme",
   "main": "index.js",
   "scripts": {
-    "test": "exit 0"
+    "test": "echo \"Running tests...\""
   },
   "repository": {
     "type": "git",
