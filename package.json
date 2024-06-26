@@ -13,5 +13,8 @@
   "author": "The Swedish Club",
   "license": "ISC",
   "package name": "@swedishclub/tscTheme",
-  "test command": "exit 0"
+  "test command": "exit 0",
+  "publishConfig": {
+  "@swedishclub:registry": "https://npm.pkg.github.com"
+}
 }
