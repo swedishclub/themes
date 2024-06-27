@@ -1,2 +1,2 @@
-# tscTheme
-A Swedish Club Theme
+# A Swedish Club Theme
+Built to be consumed by Mantine Provider
