@@ -1,8 +1,8 @@
 {
   "name": "@swedishclub/tsctheme",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "A Swedish Club Theme",
-  "main": "index.js",
+  "main": "src/index.js",
   "scripts": {
     "test": "echo \"Running tests...\""
   },
