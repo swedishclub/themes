@@ -1,6 +1,6 @@
 {
   "name": "@swedishclub/tsctheme",
-  "version": "1.0.5",
+  "version": "1.0.7",
   "description": "A Swedish Club Theme",
   "main": "src/index.js",
   "scripts": {
