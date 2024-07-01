@@ -1,3 +1,5 @@
+import { MantineProvider } from '@mantine/core';
+
 export const theme = {
     colors: {
       // Testfärger
@@ -71,10 +73,18 @@ export const theme = {
     },
   };
 
-
 // Exempel på övriga props vi kan ändra på:
 // colorScheme: 'dark',
 // Shadows 
 // Avatarer
 // Logo variationer
 // Menyer, NavBars
+
+export const ThemeProvider = ({ children }) => (
+  <MantineProvider theme={theme}>
+    {children}
+  </MantineProvider>
+);
+
+
+
