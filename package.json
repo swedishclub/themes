@@ -1,19 +1,16 @@
 {
-  "name": "@swedishclub/themes",
-  "version": "1.0.12",
-  "description": "A Swedish Club Theme",
-  "main": "src/index.js",
-  "scripts": {
-    "test": "echo \"Running tests...\""
-  },
+  "name": "@swedishclub/your-package-name",
+  "version": "1.0.0",
+  "main": "index.js",
   "repository": {
     "type": "git",
-    "url": "https://github.com/swedishclub/themes"
+    "url": "git+https://github.com/swedishclub/your-repo.git"
   },
-  "author": "The Swedish Club",
-  "license": "ISC",
   "publishConfig": {
-    "@swedishclub:registry": "https://npm.pkg.github.com"
+    "registry": "https://npm.pkg.github.com",
+    "access": "public"
+  },
+  "scripts": {
+    "test": "jest"
   }
 }
-
