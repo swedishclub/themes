@@ -1,6 +1,6 @@
 {
-  "name": "@swedishclub/tsctheme",
-  "version": "1.0.7",
+  "name": "@swedishclub/themes",
+  "version": "1.0.8",
   "description": "A Swedish Club Theme",
   "main": "src/index.js",
   "scripts": {
@@ -8,7 +8,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/swedishclub/tsctheme"
+    "url": "https://github.com/swedishclub/themes"
   },
   "author": "The Swedish Club",
   "license": "ISC",
