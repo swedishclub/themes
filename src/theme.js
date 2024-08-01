@@ -1,5 +1,3 @@
-import { MantineProvider } from "@mantine/core";
-
 export const theme = {
   colors: {
     // Testfärger
@@ -76,5 +74,3 @@ export const theme = {
 // Avatarer
 // Logo variationer
 // Menyer, NavBars
-
-export const ThemeProvider = ({ children }) => <MantineProvider theme={theme}>{children}</MantineProvider>;
