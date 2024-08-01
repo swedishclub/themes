@@ -1,13 +1,13 @@
 {
   "name": "@swedishclub/common-theme",
-  "version": "1.1.3",
+  "version": "1.1.4",
   "main": "index.js",
   "repository": {
     "type": "git",
     "url": "https://github.com/swedishclub/themes.git"
   },
   "publishConfig": {
-    "registry": "https://npm.pkg.github.com",
+    "registry": "https://registry.npmjs.org",
     "access": "public"
   },
   "scripts": {
