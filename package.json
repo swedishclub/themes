@@ -1,6 +1,6 @@
 {
-  "name": "@swedishclub/themes",
-  "version": "1.0.8",
+  "name": "@swedishclub/common-theme",
+  "version": "1.0.9",
   "description": "A Swedish Club Theme",
   "main": "src/index.js",
   "scripts": {
@@ -16,3 +16,4 @@
     "@swedishclub:registry": "https://npm.pkg.github.com"
   }
 }
+
