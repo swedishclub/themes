@@ -1,10 +1,7 @@
 {
   "name": "common-theme",
-  "version": "1.2.4",
-  "main": "theme.js",
-  "files": [
-    "theme.js"
-  ],
+  "version": "1.2.5",
+  "main": "index.js",
   "repository": {
     "type": "git",
     "url": "https://github.com/swedishclub/themes.git"
