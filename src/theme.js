@@ -1,31 +1,17 @@
 export const theme = {
   colors: {
-    // Testfärger
     primary: [
       "#E6E9F2", // Lightest shade
-      "#CCD2E6", // Lighter shade
-      "#B2BBDA", // Slightly light shade
-      "#98A4CE", // Less light shade
-      "#7E8DC2", // Near base but lighter
+      "#CCD2E6",
+      "#B2BBDA",
+      "#98A4CE",
+      "#7E8DC2",
       "#1f3568", // Base shade
-      "#1f3568", // Slightly darker
-      "#38487E", // Darker shade
-      "#222F62", // Dark shade
+      "#1f3568",
+      "#38487E",
+      "#222F62",
       "#0C1846", // Darkest shade
     ],
-
-    // primary: [
-    //     '#E6E9F2', // Lightest shade
-    //     '#CCD2E6', // Lighter shade
-    //     '#B2BBDA', // Slightly light shade
-    //     '#98A4CE', // Less light shade
-    //     '#7E8DC2', // Near base but lighter
-    //     '#1f3568', // Base shade
-    //     '#1f3568', // Slightly darker
-    //     '#38487E', // Darker shade
-    //     '#222F62', // Dark shade
-    //     '#0C1846'  // Darkest shade
-    // ],
   },
   primaryColor: "primary",
   fontFamily: "Inter, sans-serif",

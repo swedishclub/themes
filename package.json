@@ -1,6 +1,6 @@
 {
-  "name": "tsc-theme",
-  "version": "1.2.0",
+  "name": "common-theme",
+  "version": "1.2.2",
   "main": "index.js",
   "repository": {
     "type": "git",
